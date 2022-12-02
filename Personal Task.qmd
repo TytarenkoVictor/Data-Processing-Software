@@ -1,0 +1,31 @@
+---
+title: "Personal Task"
+format: pdf
+editor: source
+---
+
+## General information
+
+The task is to provide Exploratory Data Analysis on an arbitrary data set. Possible sources for data:
+
+-   [Kaggle](https://www.kaggle.com/)
+-   [data.europa.eu - The official portal for European data](https://data.europa.eu/en)
+-   [Tidytuesday](https://github.com/rfordatascience/tidytuesday)
+-   your choice
+
+## Technical part
+
+The result of the task is script for EDA including parts with reading and preparing data for analysis.
+Report in `Rmd`, `qmd`, `ipynb` or other format that can combine code and textual part. It is acceptible to make R script, but in addition must be provided document in text (`md`, `html`) formats with results of code execution.
+
+## Sections of the report
+
+1. Dataset description. Also should include variables description with units and dataset credits.
+
+2. Data reading. Also could include data merging.
+
+3. Data tidying.
+
+4. Data analyzing with graphics.
+
+
